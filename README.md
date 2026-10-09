@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnuragManikuttanK/leetcode/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0136-single-number) |
 ## Trie
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
