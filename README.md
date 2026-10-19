@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragManikuttanK/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnuragManikuttanK/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AnuragManikuttanK/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragManikuttanK/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
