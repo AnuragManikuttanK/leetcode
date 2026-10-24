@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
 ## Simulation
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
