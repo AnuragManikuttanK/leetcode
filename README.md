@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AnuragManikuttanK/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/AnuragManikuttanK/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/AnuragManikuttanK/leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
 ## Simulation
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnuragManikuttanK/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
