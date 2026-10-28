@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnuragManikuttanK/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AnuragManikuttanK/leetcode/tree/master/0231-power-of-two) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnuragManikuttanK/leetcode/tree/master/0069-sqrtx) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnuragManikuttanK/leetcode/tree/master/0231-power-of-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AnuragManikuttanK/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
