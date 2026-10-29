@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AnuragManikuttanK/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AnuragManikuttanK/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AnuragManikuttanK/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnuragManikuttanK/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AnuragManikuttanK/leetcode/tree/master/0326-power-of-three) |
 ## Newton's Method
 |  |
 | ------- |
