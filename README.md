@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnuragManikuttanK/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragManikuttanK/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AnuragManikuttanK/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AnuragManikuttanK/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/AnuragManikuttanK/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AnuragManikuttanK/leetcode/tree/master/0389-find-the-difference) |
@@ -130,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnuragManikuttanK/leetcode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
