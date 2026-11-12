@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AnuragManikuttanK/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnuragManikuttanK/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuragManikuttanK/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnuragManikuttanK/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragManikuttanK/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnuragManikuttanK/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
