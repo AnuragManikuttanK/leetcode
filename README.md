@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuragManikuttanK/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnuragManikuttanK/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragManikuttanK/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AnuragManikuttanK/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
+| [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AnuragManikuttanK/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnuragManikuttanK/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
+| [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AnuragManikuttanK/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnuragManikuttanK/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
