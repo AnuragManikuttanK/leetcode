@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuragManikuttanK/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnuragManikuttanK/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnuragManikuttanK/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
