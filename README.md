@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
 | [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
+| [2652-sum-multiples](https://github.com/AnuragManikuttanK/leetcode/tree/master/2652-sum-multiples) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AnuragManikuttanK/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnuragManikuttanK/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
