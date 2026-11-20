@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AnuragManikuttanK/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/AnuragManikuttanK/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnuragManikuttanK/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AnuragManikuttanK/leetcode/tree/master/2652-sum-multiples) |
