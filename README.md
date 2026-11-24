@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AnuragManikuttanK/leetcode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AnuragManikuttanK/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/AnuragManikuttanK/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AnuragManikuttanK/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnuragManikuttanK/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/AnuragManikuttanK/leetcode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/AnuragManikuttanK/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnuragManikuttanK/leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/AnuragManikuttanK/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
