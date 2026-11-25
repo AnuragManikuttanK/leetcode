@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AnuragManikuttanK/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnuragManikuttanK/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AnuragManikuttanK/leetcode/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnuragManikuttanK/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AnuragManikuttanK/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AnuragManikuttanK/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/AnuragManikuttanK/leetcode/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AnuragManikuttanK/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnuragManikuttanK/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AnuragManikuttanK/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/AnuragManikuttanK/leetcode/tree/master/2409-count-days-spent-together) |
