@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/AnuragManikuttanK/leetcode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnuragManikuttanK/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuragManikuttanK/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnuragManikuttanK/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragManikuttanK/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AnuragManikuttanK/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/AnuragManikuttanK/leetcode/tree/master/1672-richest-customer-wealth) |
